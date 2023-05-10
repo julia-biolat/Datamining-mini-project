@@ -1,4 +1,4 @@
-# 이지윤_2021247052_디지털헬스케어학부_데이터마이닝
+
 
 import numpy as np
 from copy import deepcopy
