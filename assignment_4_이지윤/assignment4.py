@@ -1,4 +1,4 @@
-# 이지윤_2021247052_디지털헬스케어학부_데이터마이닝
+
 import copy
 import sys
 import datetime
