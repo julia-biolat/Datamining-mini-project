@@ -1,0 +1,7 @@
+명령창에 아래와 같이 치면 됩니다! 
+>> python assignment_EC.py assignment_EC_input.txt assignment2_EC_output.txt
+>> python assignment_EC.py assignment_EC_input.txt assignment3_EC_output.txt
+>> python assignment_EC.py assignment_EC_input.txt assignment4_EC_output1.txt
+>> python assignment_EC.py assignment_EC_input.txt assignment4_EC_output2.txt
+
+입력할때마다 assignment_EC_ouput.txt 파일로 출력됩니다.
